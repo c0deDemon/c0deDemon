@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Transparent </h1>
-  <h3> The Latin Programmer </h3>
+  <h3> The Code Demon </h3>
 </div>
 
 ### About Me
