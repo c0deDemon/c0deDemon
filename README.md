@@ -16,4 +16,5 @@ C/C++, C#, VB, PHP, PY, JS, PL, RB, BASH/BATCH, SH
 
 Open to join teams or projects. 
 
+Proud V Dev
 <img width="40" src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.svg?sanitize=true">
